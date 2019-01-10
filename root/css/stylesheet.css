@@ -1,0 +1,60 @@
+body{
+	background-color: #000000;
+	color: #ce006a;
+	text-align: center;
+}
+section#buttons{
+	font-size:0;
+	margin-bottom: 20px;
+}
+button.navButton{
+	border-color: #6ac2e2;
+	background-color: #ce006a;
+	width: 20vw;
+	height: auto;
+	margin: 0;
+	color: #6ac2e2;
+	text-decoration: none;
+	font-size: 2.4rem;
+	float: center;
+}
+image#titleImage{
+	width: 80%;
+	height: auto;
+}
+div#aboutText{
+	width: 60%;
+	text-align: left;
+	float: left;
+}
+div.container{
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+div#merchItem1{
+	width: 45vw;
+	float: left;
+	margin-bottom:50px;
+}
+div#merchItem2{
+	width: 45vw;
+	float: right;
+	margin-bottom:50px;
+}
+div#merchItem3{
+	width: 45vw;
+	float: left;
+}
+div#merchItem4{
+	width: 45vw;
+	float: right;
+}
+section.vidContainer{
+	margin: 200px;
+}
+div#wrapper{
+	height: 600px;
+	margin-bottom: 50px;
+}
+	
